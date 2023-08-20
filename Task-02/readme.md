@@ -1,3 +1,3 @@
-Task 02 
-Learning Javascript
+<b> Task 02 </b><br>
+Learning Javascript<br>
 Print Hello World 
